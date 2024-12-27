@@ -10,8 +10,8 @@ import { AnalyticsService } from 'src/app/services/analytics/analytics.service';
 export class CertificateComponent implements OnInit {
   certificates = [
     {
-      Title: 'Java OOP certificate of FPT Software',
-      Organization: ['FPT Software'],
+      Title: 'Angular - The Complete Guide (2024 Edition)',
+      Organization: ['Udemy'],
       image: '../../../../assets/images/certificates/java_oop.jpg'
     },
     {

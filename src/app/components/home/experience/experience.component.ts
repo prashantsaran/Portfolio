@@ -10,15 +10,17 @@ export class ExperienceComponent implements OnInit {
   Experiences: any[] = [
     {
       Tab: 'Work',
-      Orgenization: 'Techzen company limited',
-      Title: 'Fullstack Developer Intern',
+      Orgenization: 'Novelvox',
+      Title: 'Associate Software Developer',
       Date: '19/08/2024 - 11/10/2024',
       Description: [
-        'I am a fullstack developer intern at Techzen company limited. During my internship, I have been working on a project to build an online learning platform website for the company. I am responsible for the front-end (VueJs) and back-end (Spring boot) of the website. I have gained a lot of experience in web development and teamwork follow Agile Scrum methodology.',
+        `I am a fullstack developer  at Novelvox India pvt. ltd. ,Over two years, I’ve specialized in designing and delivering scalable, user-centric web applications using Angular, SpringBoot, and Node.js. My expertise bridges frontend and backend technologies, ensuring efficient and feature-rich solutions.
+In my two years at NovelVox, I honed my skills in developing scalable and user-centric web applications using Angular, SpringBoot, and Node.js. My work seamlessly integrates frontend and backend technologies to create feature-rich and efficient solutions. With expertise in building RESTful APIs, implementing secure authentication systems using Spring Security, and optimizing database interactions through Spring Data JPA, I ensure robust backend functionality. On the frontend, I specialize in creating responsive Single Page Applications, leveraging Angular’s latest features like the Signals API for optimized reactivity, and designing interactive user interfaces with Angular Material and custom CSS. My focus on performance optimization, including lazy loading and secure navigation, underscores my commitment to delivering high-quality, efficient applications.
+        `,
       ],
       Link: [
-        'https://github.com/lethanhtuan939/Techlearn-BE',
-        'https://github.com/lethanhtuan939/Techlearn-FE'
+        'https://github.com/prashantsaran',
+        // 'https://github.com/lethanhtuan939/Techlearn-FE'
       ]
     },
     {
